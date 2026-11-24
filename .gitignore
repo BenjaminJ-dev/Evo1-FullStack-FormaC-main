@@ -1,0 +1,10 @@
+node_modules
+dist
+coverage
+*.local
+.DS_Store
+
+.tools/
+.m2-backend/
+backend/target/
+backend/data/
